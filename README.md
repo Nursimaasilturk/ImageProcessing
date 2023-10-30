@@ -22,4 +22,4 @@ s = T(r) = L - 1 - r
 > L-1 ; Max-intensity value - 255 for 8-bit image -
 > r ; pixel value
 
-![alt text](https://github.com/Nursimaasilturk/ImageProcessing/tree/master/assets/negative-image.png?raw=true)
+![alt text](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/negative-image.png)
