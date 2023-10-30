@@ -22,4 +22,11 @@ s = T(r) = L - 1 - r
 > L-1 ; Max-intensity value - 255 for 8-bit image -
 > r ; pixel value
 
-![alt text](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/negative-image.png)
+![negative image](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/negative-image.png)
+
+### <font color="SpringGreen">Log Transformation</font>
+```
+s = clog(1 + r)
+```
+
+![log transformation](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/log-transformation.png)
