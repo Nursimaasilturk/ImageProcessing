@@ -30,3 +30,13 @@ s = clog(1 + r)
 ```
 
 ![log transformation](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/log-transformation.png)
+
+### <font color="SpringGreen">Gamma Transformation</font>
+```
+s = cr^γ
+```
+![gamma transformation](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/gamma-transformation.png)
+
+For Grayscale Image
+
+![gamma transformation for grayscale image](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/gamma-transformation-grayscale.png)
