@@ -40,3 +40,15 @@ s = cr^γ
 For Grayscale Image
 
 ![gamma transformation for grayscale image](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/gamma-transformation-grayscale.png)
+
+### <font color="SpringGreen">Piecewise Linear Transformation</font>
+ <font color="plum">Contrast Stretching</font>
+```
+Xnew= (Xi - Xmin) / (Xmax -Xmin) * 255
+```
+ 0 - 255
+![contrast  streching](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/contrast-stretching.png)
+
+0 - 150
+
+![contrast  streching](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/contrast-stretching-2.png)
