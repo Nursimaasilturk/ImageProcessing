@@ -55,3 +55,6 @@ Xnew= (Xi - Xmin) / (Xmax -Xmin) * 255
 
  <font color="plum">Bit Plane Slicing</font>
  ![Bit plane Slicing](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/bit-plane-slicing.png)
+ 
+### Histogram Equalization
+![Histogram Equalization](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/histogram-equalization.png)
