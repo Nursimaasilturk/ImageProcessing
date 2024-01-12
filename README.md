@@ -52,3 +52,6 @@ Xnew= (Xi - Xmin) / (Xmax -Xmin) * 255
 0 - 150
 
 ![contrast  streching](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/contrast-stretching-2.png)
+
+ <font color="plum">Bit Plane Slicing</font>
+ ![Bit plane Slicing](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/bit-plane-slicing.png)
