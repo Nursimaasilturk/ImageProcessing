@@ -80,3 +80,14 @@ Xnew= (Xi - Xmin) / (Xmax -Xmin) * 255
 > The elements of the Gaussian filter matrix must be divided by a `normalization coefficient` determined depending on the filter size. This normalization ensures that the total weights are 1.
 
 ![Guassian Filter](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/guassian-filter.png)
+
+### Sobel Filter
+```
+[-1 0 1]         [ 1  2  1]         [p1 p2 p3]
+[-2 0 2]         [ 0  0  0]         [p4 p5 p6]
+[-1 0 1] -> Gx   [-1 -2 -1] -> Gy   [p7 p8 p9] -> Original Image
+```
+> G = |Gx| + |Gy|
+> If G greater than 255, set equal to 255
+
+![Sobel Filter](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/sobel-filter.png)
