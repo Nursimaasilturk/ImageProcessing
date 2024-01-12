@@ -60,10 +60,23 @@ Xnew= (Xi - Xmin) / (Xmax -Xmin) * 255
 ![Histogram Equalization](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/histogram-equalization.png)
 
 ### Averaging Filter
-```json
+```
 [1 1 1]
 [1 1 1]
 [1 1 1] (1/9)  -> 3x3 matrix
 ```
 > If you use NxN matrix, you must divide elements of matrix by 1/N
+
 ![Averaging Filter](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/averaging-filter.png)
+
+### Guassian Filter
+```
+[1 4  6  4  1]
+[4 16 24 16 4]
+[6 24 36 24 6]
+[4 16 24 16 4]
+[1 4  6  4  1] (1/256) -> 5X5 matrix
+```
+> The elements of the Gaussian filter matrix must be divided by a `normalization coefficient` determined depending on the filter size. This normalization ensures that the total weights are 1.
+
+![Guassian Filter](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/guassian-filter.png)
