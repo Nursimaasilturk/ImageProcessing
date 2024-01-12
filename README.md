@@ -58,3 +58,12 @@ Xnew= (Xi - Xmin) / (Xmax -Xmin) * 255
  
 ### Histogram Equalization
 ![Histogram Equalization](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/histogram-equalization.png)
+
+### Averaging Filter
+```json
+[1 1 1]
+[1 1 1]
+[1 1 1] (1/9)  -> 3x3 matrix
+```
+> If you use NxN matrix, you must divide elements of matrix by 1/N
+![Averaging Filter](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/averaging-filter.png)
