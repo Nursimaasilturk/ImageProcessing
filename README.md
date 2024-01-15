@@ -105,8 +105,11 @@ Xnew= (Xi - Xmin) / (Xmax -Xmin) * 255
 
 ### Opening and Closing
 
-## Opening Operation
+#### Opening Operation
 ![Opening](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/opening.png)
 
-## Closing Operation
+#### Closing Operation
 ![Closing](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/closing.png)
+
+### Erosion and Dilation
+![Erosion and Dilation](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/ero-and-dil.png)
