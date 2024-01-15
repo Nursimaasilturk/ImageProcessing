@@ -99,3 +99,6 @@ Xnew= (Xi - Xmin) / (Xmax -Xmin) * 255
 [0  -1  0]
 ```
 ![Laplacian Filter](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/laplacian-filter.png)
+
+### Salt and Pepper
+![Salt and Pepper](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/salt-and-pepper.png)
