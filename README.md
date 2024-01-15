@@ -107,3 +107,6 @@ Xnew= (Xi - Xmin) / (Xmax -Xmin) * 255
 
 ## Opening Operation
 ![Opening](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/opening.png)
+
+## Closing Operation
+![Closing](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/closing.png)
