@@ -102,3 +102,8 @@ Xnew= (Xi - Xmin) / (Xmax -Xmin) * 255
 
 ### Salt and Pepper
 ![Salt and Pepper](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/salt-and-pepper.png)
+
+### Opening and Closing
+
+## Opening Operation
+![Opening](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/opening.png)
