@@ -91,3 +91,11 @@ Xnew= (Xi - Xmin) / (Xmax -Xmin) * 255
 > If G greater than 255, set equal to 255
 
 ![Sobel Filter](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/sobel-filter.png)
+
+### Laplacian Filter
+```
+[0  -1  0]
+[-1 -4 -1]
+[0  -1  0]
+```
+![Laplacian Filter](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/laplacian-filter.png)
