@@ -113,3 +113,9 @@ Xnew= (Xi - Xmin) / (Xmax -Xmin) * 255
 
 ### Erosion and Dilation
 ![Erosion and Dilation](https://github.com/Nursimaasilturk/ImageProcessing/blob/master/assets/ero-and-dil.png)
+
+## Differance between Standardization and Normalization
+Normalization scales data to a specific range, typically between 0 and 1, while standardization transforms 
+data to have a mean of 0 and a standard deviation of 1. Normalization uses the minimum and maximum values in the 
+dataset, whereas standardization involves subtracting the mean and dividing by the standard deviation. 
+The choice between these methods depends on the characteristics of the dataset and the requirements of the model.
